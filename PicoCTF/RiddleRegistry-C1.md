@@ -1,8 +1,8 @@
-# 🏁 PicoCTF Writeup — RiddleRegistry
+# 🏁 PicoCTF Writeup — RiddleRegistry (Hidden Confidential Document)
 
 ## 🏷 Category:
-Digital Forensics
-Level - Easy
+- Digital Forensics
+- Level - Easy
 
 ## 🎯 Objective:
 The objective of this challenge was to analyze a provided PDF file and uncover the hidden flag within its metadata.
@@ -10,8 +10,8 @@ The objective of this challenge was to analyze a provided PDF file and uncover t
 The challenge description indicated that the PDF contained garbled or meaningless content, suggesting that the actual flag was not visible directly in the document but hidden in the file’s metadata.
 
 ## 🛠 Tools Used:
-PDF metadata viwer:  Metadata2go
-Decoder: Base64Decode
+- PDF metadata viwer:  Metadata2go
+- Decoder: Base64Decode
 
 ## 🧠 Steps / Method:
 
