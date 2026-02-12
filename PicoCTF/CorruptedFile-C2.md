@@ -1,12 +1,9 @@
 # 🏁 PicoCTF Writeup — Corrupted File
 
-## 🔐 Challenge Name:
-
-Corrupted File
-
 ## 🏷 Category:
 
-Digital Forensics
+- Digital Forensics
+- Level Easy
 
 ## 🎯 Objective:
 
@@ -16,9 +13,9 @@ The downloaded file appeared damaged or unreadable, indicating that the file hea
 
 ## 🛠 Tools Used:
 
-* Hex Editor
-* File signature knowledge (JPEG header)
-* Online file converter (to JPG/JPEG)
+- Hex Editor
+- File signature knowledge (JPEG header)
+- Online file converter (to JPG/JPEG)
 
 ## 🧠 Steps / Method:
 
@@ -63,7 +60,10 @@ Once converted/opened successfully, the hidden flag became visible within the im
 
 ## 🏳 Flag:
 
-[REDACTED FOR ETHICAL SHARING]
+picoCTF{xxxxxxxxxxxxxxxx} [REDACTED FOR ETHICAL REASONS]
+
+## 📸Screenshot
+<img width="344" height="239" alt="image" src="https://github.com/user-attachments/assets/102ecb56-d69d-4440-9fcd-5ffbbb519892" />
 
 ## 📚 What I Learned:
 
